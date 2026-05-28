@@ -28,12 +28,15 @@ Desenvolvimento de uma arquitetura orientada a dados *end-to-end* para modelagem
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
 
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nacarat1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-top-languages.vercel.app/api/?username=Nacarat1&layout=compact&langs_count=7&theme=radical"/>
-</p>
+Se você rolar um pouco mais para baixo nesta página, poderá ver meu painel oficial de contribuições diárias diretamente no ecossistema do GitHub. 
+
+Atualmente, meus principais focos de desenvolvimento e estudo são:
+
+- 🐍 **Projetos de Dados Ativos:** Pipelines em Python com foco em ETL, arquitetura de camadas e automações.
+- 🎓 **Fundamentos de Computação:** Estudos estruturados em lógica, algoritmos e estruturas de dados através do CS50 de Harvard e Alura.
+
 
 ---
 
@@ -41,18 +44,3 @@ Desenvolvimento de uma arquitetura orientada a dados *end-to-end* para modelagem
 
 - **LinkedIn:** [linkedin.com/in/danielnacarat](https://linkedin.com/in/danielnacarat)
 - **E-mail:** nacaratdan@gmail.com
-
-<!--
-**Nacarat1/Nacarat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
