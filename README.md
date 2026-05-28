@@ -9,7 +9,7 @@ Atualmente, busco oportunidades como **Engenheiro de Dados Júnior**, enquanto a
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
 - **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B5C?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- **Engenharia de Dados:** `Arquitetura Medallion (Bronze/Silver/Gold)` | `Pipelines ETL/ELT` | `Modelagem Dimensional (Star Schema)` | `Ingestão de APIs REST`
+- **Engenharia de Dados:** `Arquitetura Medallion (Bronze/Silver/Gold)` | `Pipelines ETL/ELT` | `Modelagem Dimensional (Star Schema)` | `Ingestão de APIs REST` | `Machine Learning`
 - **Bancos de Dados:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 - **Análise Quantitativa:** `Simulação de Monte Carlo` | `Regressão Estatística` | `Análise de Sensibilidade`
 - **Ferramentas & BI:** ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) `Power Automate` | `Jira/Notion`
