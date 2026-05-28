@@ -2,7 +2,7 @@
 
 Como entusiasta de tecnologia e dados, transicionei minha forte base analítica para a **Engenharia de Dados**. Meu foco é construir pipelines de dados robustos, automatizar processos e transformar dados brutos de fontes heterogêneas em arquiteturas limpas, governadas e prontas para análise.
 
-Atualmente, busco oportunidades como **Engenheiro de Dados Júnior**, enquanto aprofundo meus fundamentos em Ciência da Computação através do CS50 da HarvardX.
+Atualmente, busco oportunidades como **Engenheiro de Dados Júnior** e **Analista de Business Intellingence**, enquanto aprofundo meus fundamentos em Ciência da Computação através do CS50 da HarvardX.
 
 ---
 
